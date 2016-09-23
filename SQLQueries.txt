@@ -1,0 +1,5 @@
+first name |select firstname from customers
+lastname|select lastname from customers
+
+lastname|select lastname from customers
+

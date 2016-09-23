@@ -1,0 +1,4 @@
+name|select firstname from customers|
+city|select city from customers|
+state|select state from customers|
+

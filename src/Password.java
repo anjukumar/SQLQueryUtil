@@ -1,9 +1,10 @@
 import java.util.Scanner;
 import java.io.FileNotFoundException;
+import java.io.UnsupportedEncodingException;
 import java.util.*;
 
 public class Password {
-	public static void main(String[] args) 
+	public static void main(String[] args) throws UnsupportedEncodingException 
 	{
 		Scanner sc = new Scanner(System.in);
 		Query q = new Query();
